@@ -1,3 +1,5 @@
+package methodOverLoading;
+
 public class Area {
     public double area(double side){
         return side * side;
